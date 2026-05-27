@@ -20,7 +20,7 @@
 def chengzhi():
   return {
       "pronouns": ["he", "him"],
-      "code": [Python, Claude code, Codex],
+      "code": [Python, Claude, Codex],
       "interests": [Multimodal Large Models, Generative Models, Representation Learning, Trustworthy AI],
       "hobbies": [Tennis, Hiking, Photography], 
       "favourite_quote": "Everyday like the first day "
