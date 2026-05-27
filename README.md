@@ -19,7 +19,6 @@
 ```python
 def chengzhi():
   return {
-      "pronouns": ["he", "him"],
       "code": [Python, Claude, Codex],
       "interests": [Multimodal Large Models, Generative Models, Representation Learning, Trustworthy AI],
       "hobbies": [Tennis, Hiking, Photography], 
