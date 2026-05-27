@@ -3,14 +3,14 @@
 <p>
   👨‍🎓 PhD Researcher @ <a href="https://www.tum.de/en/">Technische Universität München</a>
   <br>
-  🏥 Chair of AI for Healthcare and Medicine, working with <a href="https://www.ai-medical.de/">Prof. Daniel Rueckert</a>
+  🏥 Chair of AI for Healthcare and Medicine, working with <a href="https://kiinformatik.mri.tum.de/en/chair-artificial-intelligence-healthcare-and-medicine">Prof. Daniel Rueckert</a>
   <br>
   🧠 Research: LLM-based clinical decision support, multimodal foundation models, trustworthy AI for the ICU
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chengzhi-shen/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cz.shen.muc@gmail.com)
-[![Website](https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=githubpages&logoColor=white)](https://chengzhi-leo.github.io/)
+[![Website](https://img.shields.io/badge/Website-22D3EE?style=for-the-badge&logo=githubpages&logoColor=black)](https://chengzhi-leo.github.io/)
 [![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=5bgtMIUAAAAJ&hl=en)
 
 
