@@ -1,11 +1,17 @@
-<h2> Hi there, I'm Chengzhi 👋 </h2>
-<p><em> 👨‍🎓 PhD student @ <a href="http://www.unb.br"> Technische Universität München</a>
-  </br>  💻 Research: AI for Healthcare and Medicine </a><p></em>
- 
+<h2>Hi there, I'm Chengzhi 👋</h2>
+
+<p>
+  👨‍🎓 PhD Researcher @ <a href="https://www.tum.de/en/">Technische Universität München</a>
+  <br>
+  🏥 Chair of AI for Healthcare and Medicine, working with <a href="https://www.ai-medical.de/">Prof. Daniel Rueckert</a>
+  <br>
+  🧠 Research: LLM-based clinical decision support, multimodal foundation models, trustworthy AI for the ICU
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chengzhi-shen/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cz.shen.muc@gmail.com)
 [![Website](https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=githubpages&logoColor=white)](https://chengzhi-leo.github.io/)
-[![Scholar](https://img.shields.io/badge/Scholar-000000?style=flat-square&logo=googlescholar&logoColor=white)]([https://scholar.google.com/](https://scholar.google.com/citations?user=5bgtMIUAAAAJ&hl=en))
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=5bgtMIUAAAAJ&hl=en)
 
 
 ### A little more about me:
